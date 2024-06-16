@@ -2,13 +2,13 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernumber = ['254745936840']
-global.ownername = "KISH"//owner name
+global.ownernumber = ['254740915718']
+global.ownername = "Blanco"//owner name
 global.ytname = "YT: KishBotz.inc"
 global.socialm = "GitHub: Kish-MD"
 global.location = "Kenya"
 
-global.botname = 'KISH-MD' //name of the bot
+global.botname = 'BLANCO-MD' //name of the bot
 
 //sticker details
 global.stickername = 'KISH-MD'
